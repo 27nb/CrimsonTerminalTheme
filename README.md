@@ -1,5 +1,4 @@
-<h1 align="center"> RED ~~Fallout 4~~ Terminal Theme</h1>
-<img src="https://B4T3S.github.io/Fallout4TerminalTheme/img/FalloutTerminal.png">
+<h1 align="center"> RED Fallout 4 Terminal Theme</h1>
 
 <h2>About</h2>
 
